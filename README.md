@@ -1,3 +1,3 @@
 # ClickyGame
 
-https://cedricparages.github.io/ClickyGame/
+https://cedricparages.github.io/ClickyGameTest/
